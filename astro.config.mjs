@@ -8,5 +8,5 @@ export default defineConfig({
   integrations: [tailwind(), icon(), compress()],
   output: "static",
   site: 'https://kerimcanbalkan.github.io',
-  base: '/boring-portfolio'
+  base: '/'
 });
