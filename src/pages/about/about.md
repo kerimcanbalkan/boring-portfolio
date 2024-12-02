@@ -1,10 +1,11 @@
 ---
 title: about
-name: "Cezar Kelso"
-designation: "Senior Detective"
-location: Los Angeles, CA 90001
-pronouns: "he/him/el"
-website: "http://tafutza.hn/kos"
+name: "Kerimcan Balkan"
+designation: "Full Stack Developer"
+location: Istanbul, Turkey
+website: "https://kerimcanbalkan.com"
 ---
 
-Highly skilled and experienced law enforcement professional with over two decades of service in various specialized units. Adept at conducting complex investigations, coordinating tactical operations, and providing leadership in high-pressure situations. Known for exceptional problem-solving abilities, strategic thinking, and dedication to upholding the law. Seeking opportunities to leverage expertise in a challenging environment where I can continue to make a meaningful impact.
+A passionate full-stack developer with a diverse background in both software development and Astronomy. Skilled in JavaScript, TypeScript, React, Node.js, and
+Golang, with a focus on building practical solutions for small and medium-sized businesses. Eager to apply my problem-solving skills and continue learning in the
+field of software development.
