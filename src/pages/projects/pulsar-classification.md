@@ -1,6 +1,6 @@
 ---
 title: Pulsar Classification
-url: https://kerimcanbalkan.com
+url: https://github.com/kerimcanbalkan/Ppdot-ML
 tags: ["python", "scikit-learn", "pandas"]
 ---
 
