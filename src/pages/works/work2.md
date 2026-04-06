@@ -1,7 +1,7 @@
 ---
-title: Freelance Web Developer
+title: Full Stack Developer Intern at Mensa Philosophical Circle.
 location: Remote
-Date: 2023-Present
+date: 2026
 ---
 
-Providing web development services, including creating responsive websites, building user-friendly interfaces, and developing backend systems. Collaborating with clients to deliver tailored solutions, showcasing expertise in JavaScript, TypeScript, React, and Golang.
+As a Full Stack Developer Intern at Mensa Philosophical Circle, I contributed to the Lernicle project by implementing new features and resolving bugs across both the React frontend and NestJS backend.
